@@ -1,0 +1,10 @@
+2+3
+5
+alert(2+3)
+undefined
+typeof(23)
+'number'
+typeof("David")
+'string'
+typeof(true)
+'boolean'
